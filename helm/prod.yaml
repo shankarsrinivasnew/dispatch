@@ -1,2 +1,2 @@
-component : frontend
-params:
+component : dispatch
+params: "AMQP_HOST:prod.dispatch.amqp_host,AMQP_USER:prod.dispatch.amqp_user,AMQP_PASS:prod.dispatch.amqp_pass"
